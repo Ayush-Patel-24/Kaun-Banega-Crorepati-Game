@@ -18,6 +18,7 @@
     <div class="container">
         <h1>Congratulations!</h1>
         <p>You have answered all 15 questions correctly. You are a KBC Winner!</p>
+        <p>You are walking away with the Rs.7Cr</p>
         <a href="index.jsp" class="play-again-button">Play Again</a>
     </div>
 </body>
